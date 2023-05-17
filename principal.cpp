@@ -1,9 +1,11 @@
 #include<iostream>
+#include "EjercicioIF.cpp"
 
 using namespace std;
 
 int main()
 {
-    cout<<"Hola mundo"<<endl;
+    pedirNumeros();
+    
     return 0;
 }
